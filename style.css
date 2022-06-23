@@ -1,0 +1,122 @@
+header a {
+    /* text-decoration: none; */
+    color: black;
+}
+
+header a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.main-body-1 {
+    display: flex;
+}
+
+.main-footer {
+    display: flex;
+    background-color: #ebeeef;
+    justify-content: center;
+}
+
+.main-footer li {
+    list-style-type: none;
+}
+
+.things {
+    color: black;
+}
+
+.things:hover {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.dropdown {
+    color: black;
+}
+
+.dropdown:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.categories-list {
+    display: flex;
+}
+
+.mobile-app-link {
+    display: flex;
+    justify-content: center;
+    background: rgba(0, 47, 52, .03);
+}
+
+.mobile-store-links {
+    display: flex;
+}
+
+.empty {
+    border-right: 100px;
+    border-right-color: grey;
+    border-right-width: 100%;
+}
+
+.vertical-line {
+    border-left: 2px solid grey;
+    height: 150px;
+}
+
+.main-footer-2 {
+    background-color: #002f34;
+    color: white;
+}
+
+.footer-text {
+    /* font-size: 1.204rem; */
+    display: flex;
+    /* justify-content: flex-end; */
+    text-align: right;
+}
+
+footer a {
+    color: grey;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.description {
+    display: flex;
+}
+
+.price h5 {
+    line-height: 2.9;
+}
+
+.address {
+    color: grey;
+    font-size: small;
+}
+
+.button {
+    justify-content: center !important;
+    text-align: center !important;
+}
+
+.load-more{
+    background-color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.load-more:hover{
+    cursor: pointer;
+    border-width: 4px;
+}
+.text{
+    font-size: 25px;
+}
